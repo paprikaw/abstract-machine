@@ -11,3 +11,5 @@ CONTACTS
 
 Bug reports and suggestions go to Yanyan Jiang (jyy@nju.edu.cn) and Zihao 
 Yu (yuzihao@ict.ac.cn).
+
+由于am在构建image的时候需要调用xwindow，所以我们要确保xwindow设置好，才能构建image
